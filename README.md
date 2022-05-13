@@ -1,6 +1,7 @@
 # Opensea Blockchain Web3.0 App.
 
 # Preview 
+## Live : https://opensea-blockchain-clone-1xw5sqqml-alihaiderizvi.vercel.app/
 ## Home Page 
 ![1](https://user-images.githubusercontent.com/66882702/168290989-3326226f-a4f1-4680-b62a-5cf576972273.PNG)
 ## Collections Page 
